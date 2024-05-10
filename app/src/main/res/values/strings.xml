@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical_2_6</string>
+    <string name="hi">Введите данные для вычитания: </string>
+    <string name="me">Козлова Динара, РИБО-01-22, вариант 3</string>
+    <string name="calc">Калькулятор</string>
+    <string name="firstV">Первое число</string>
+    <string name="secondV">Второе число</string>
+    <string name="thirdV">Третье число</string>
+    <string name="count">Считать</string>
+</resources>
